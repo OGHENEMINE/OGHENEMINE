@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hey there, I'm Favour
 
-<!--
-**OGHENEMINE/OGHENEMINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building clean, user-friendly interfaces, with a growing interest in backend development.
 
-Here are some ideas to get you started:
+- 🎓 Studied Computer Science at the **University of Port Harcourt, Nigeria**  
+- 💻 I work mostly with **React**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**
+- 🚀 Currently learning **PHP** and **Laravel** to expand my backend skills  
+- ⚙️ I enjoy learning, building, and sharing my journey in tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGHENEMINE&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠️ Tech Stack
+
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS  
+**Backend:** PHP · Laravel (Learning)  
+**Tools:** Git · GitHub · VS Code · Postman
+
+
+## ✨ Fun Fact
+
+I’m always up for learning something new and connecting with other developers. Let’s build something awesome together.
