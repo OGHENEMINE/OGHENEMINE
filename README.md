@@ -3,7 +3,7 @@
 I'm a **Frontend Developer** passionate about building clean, user-friendly interfaces, with a growing interest in backend development.
 
 - 🎓 Studied Computer Science at the **University of Port Harcourt, Nigeria**  
-- 💻 I work mostly with **React**, **Next** , **TypeScript**, **JavaScript**
+- 💻 I work mostly with **React**, **Next**, **TypeScript**, **JavaScript**
 - 🚀 Currently learning **PHP** and **Laravel** to expand my backend skills  
 - ⚙️ I enjoy learning, building, and sharing my journey in tech
 
